@@ -1,0 +1,8 @@
+{
+  "name": "parallel",
+  "version": "1.0.0",
+  "description": "simple utility to run function parallely in browser",
+  "main": "index.js",
+  "author": "Shashi Sharma",
+  "license": "ISC"
+}
